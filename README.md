@@ -1,2 +1,9 @@
-# PiPi
-This is a repository to share PiPi package (R) to compute political inequality index among countries.
+PiPi
+====
+
+An R-package to compute egini-index in order to determine political inequality
+
+- pkg An updated version of the package (in progress)
+
+
+
