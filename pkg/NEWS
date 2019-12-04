@@ -1,0 +1,7 @@
+version 1.0
+- egini - for baseline index
+- add eginiMin - to determine structural minimum
+- add eginiCalc - to create resampling pool
+- add plot.egini - to create Lorenz-curve for egini
+
+
